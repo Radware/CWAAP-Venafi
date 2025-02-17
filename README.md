@@ -22,9 +22,10 @@ Cloud WAAP **API user**.
 
 ## How to use:
 
-### Create Policy:
-Contact Venafi support to download the driver script or download it directly from Venafi's marketplace.
+### Get the driver script:
+Download the driver script from this repository or from Venafi's marketplace.
 
+### Create Policy:
 Open your Venafi platform and create a new policy, named **Radware Cloud WAAP** (or any other relevant name).
 
 Click **Save**.
