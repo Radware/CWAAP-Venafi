@@ -1,4 +1,4 @@
-# How to Automate the Cloud Web Application API Protection (Cloud WAAP) Renewal SSL Using Venafi Platform
+# How to Automate the Renewal SSL of Radware Cloud Web Application API Protection (Cloud WAAP) Using Venafi Platform
 
 ## Introduction:
 Web application development is becoming increasingly complex and quick-paced. DevOps is increasing the level of functionality and frequency of product releases. With application availability more important to the user experience than ever, and with the growing complexity of the application environment and integrations, applications are becoming increasingly vulnerable, exposing enterprises to the risk of data breaches and financial loss.
